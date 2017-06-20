@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1497964897935" transient="false">
+	<site updateable="true" url="file:../lib/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.wso2.carbon.runtime" version="5.2.0.m3" url="features/org.wso2.carbon.runtime_5.2.0.m3/">
+		</feature>
+		<feature id="org.wso2.carbon.pax.exam" version="5.2.0" url="features/org.wso2.carbon.pax.exam_5.2.0/">
+		</feature>
+		<feature id="org.wso2.carbon.kernel" version="5.2.0.m3" url="features/org.wso2.carbon.kernel_5.2.0.m3/">
+		</feature>
+	</site>
+</config>

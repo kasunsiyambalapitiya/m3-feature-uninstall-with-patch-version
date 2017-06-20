@@ -1,0 +1,31 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon Kernel - Kernel Feature
+
+
+From: 'an unknown organization'
+  - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:jar:20140107
+    License: The JSON License  (http://json.org/license.html)
+  - WSO2 Carbon Orbit - JSON (org.json) (http://wso2.org) org.json.wso2:json:bundle:3.0.0.wso2v1
+
+  - SnakeYAML (http://www.snakeyaml.org) org.yaml:snakeyaml:bundle:1.17
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'OSGi Alliance' (http://www.osgi.org)
+  - org.osgi.core (http://www.osgi.org) org.osgi:org.osgi.core:jar:6.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'WSO2' (http://www.wso2.org/)
+  - WSO2 Carbon Kernel - Core (http://wso2.com) org.wso2.carbon:org.wso2.carbon.core:bundle:5.2.0-m3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WSO2 Carbon Kernel - Launcher (http://wso2.com) org.wso2.carbon:org.wso2.carbon.launcher:jar:5.2.0-m3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WSO2 Carbon Kernel - Tools - Core (http://wso2.com) org.wso2.carbon:org.wso2.carbon.tools.core:jar:5.2.0-m3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

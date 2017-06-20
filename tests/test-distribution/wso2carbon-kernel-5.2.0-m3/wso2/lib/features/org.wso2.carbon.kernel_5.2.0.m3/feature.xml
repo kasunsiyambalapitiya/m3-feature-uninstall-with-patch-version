@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.kernel" label="WSO2 Carbon Kernel - Kernel Feature" provider-name="%providerName" version="5.2.0.m3">
+  <description>This feature contains the carbon core bundle and its dependents</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="json" unpack="false" version="3.0.0.wso2v1"/>
+  <plugin id="org.wso2.carbon.core" unpack="false" version="5.2.0.m3"/>
+  <plugin id="org.yaml.snakeyaml" unpack="false" version="1.17.0"/>
+  <require/>
+</feature>

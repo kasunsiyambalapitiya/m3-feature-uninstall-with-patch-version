@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.pax.exam" label="WSO2 Carbon Kernel - Pax Exam Feature" provider-name="%providerName" version="5.2.0">
+  <description>WSO2 Carbon Kernel Parent Pom</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="org.ops4j.base.lang" unpack="false" version="1.5.0"/>
+  <require/>
+</feature>
