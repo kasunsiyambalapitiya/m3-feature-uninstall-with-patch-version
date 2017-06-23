@@ -1,0 +1,14 @@
+[2017-06-23 16:59:49,816]  INFO {Activator.class} - ============== Sample Bundle 1 Activated ============
+[2017-06-23 16:59:49,818]  INFO {Activator.class} - =============== Sample Bundle 2 being activated ===================
+[2017-06-23 16:59:49,872]  INFO {org.wso2.carbon.kernel.internal.CarbonStartupHandler} - WSO2 Carbon Kernel started in 1.160 sec
+[2017-06-23 17:04:42,024]  INFO {Activator.class} - ============== Sample Bundle 1 Activated ============
+[2017-06-23 17:04:42,027]  INFO {Activator.class} - ============== Activated the updated sample bundle 2 added from new feature   ============
+[2017-06-23 17:04:42,081]  INFO {org.wso2.carbon.kernel.internal.CarbonStartupHandler} - WSO2 Carbon Kernel started in 1.129 sec
+[2017-06-23 17:19:00,638]  INFO {Activator.class} - ============== Activated the updated sample bundle 2 added from new feature   ============
+[2017-06-23 17:19:00,696]  INFO {org.wso2.carbon.kernel.internal.CarbonStartupHandler} - WSO2 Carbon Kernel started in 1.133 sec
+[2017-06-23 17:21:41,454]  INFO {Activator.class} - ============== Activated the updated sample bundle 1 added from new feature   ============
+[2017-06-23 17:21:41,457]  INFO {Activator.class} - ============== Activated the updated sample bundle 2 added from new feature   ============
+[2017-06-23 17:21:41,511]  INFO {org.wso2.carbon.kernel.internal.CarbonStartupHandler} - WSO2 Carbon Kernel started in 1.109 sec
+[2017-06-23 17:28:40,209]  INFO {Activator.class} - ============== Activated the updated sample bundle 1 added from new feature   ============
+[2017-06-23 17:28:40,211]  INFO {Activator.class} - ============== Activated the updated sample bundle 2 added from new feature   ============
+[2017-06-23 17:28:40,266]  INFO {org.wso2.carbon.kernel.internal.CarbonStartupHandler} - WSO2 Carbon Kernel started in 1.153 sec

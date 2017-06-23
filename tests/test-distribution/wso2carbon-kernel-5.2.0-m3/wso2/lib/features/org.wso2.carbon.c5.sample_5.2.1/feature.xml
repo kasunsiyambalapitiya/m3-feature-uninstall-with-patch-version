@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.c5.sample" label="org.wso2.carbon.c5.sample.feature" provider-name="%providerName" version="5.2.1">
+  <description>WSO2 Carbon Kernel Parent Pom</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <plugin id="sample-bundle1" unpack="false" version="5.2.1"/>
+  <plugin id="org.ops4j.base.monitors" unpack="false" version="1.5.0"/>
+  <require>
+    <import feature="org.wso2.carbon.pax.exam" match="compatible" version="5.2.0"/>
+  </require>
+</feature>

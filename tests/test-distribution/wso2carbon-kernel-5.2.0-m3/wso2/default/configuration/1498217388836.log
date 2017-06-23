@@ -1,0 +1,11 @@
+!SESSION 2017-06-23 16:59:49.591 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-06-23 16:59:49.592
+!MESSAGE Could not bind a reference of component org.wso2.carbon.kernel.internal.runtime.RuntimeServiceListenerComponent. The reference is: Reference[name = carbon.runtime.service, interface = org.wso2.carbon.kernel.runtime.Runtime, policy = dynamic, cardinality = 0..n, target = null, bind = registerRuntime, unbind = unRegisterRuntime]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2017-06-23 16:59:49.593
+!MESSAGE Could not bind a reference of component org.wso2.carbon.kernel.internal.transports.TransportServiceComponent. The reference is: Reference[name = carbon.transport, interface = org.wso2.carbon.kernel.transports.CarbonTransport, policy = dynamic, cardinality = 0..n, target = null, bind = registerTransport, unbind = unregisterTransport]
